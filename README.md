@@ -1,11 +1,43 @@
-- 👋 Hi, I’m @sonicnew
-- 👀 I’m interested in cybersecurity, ethical hacking, and network security.
-- 💞️ I’m looking to collaborate on open-source cybersecurity tools, threat detection algorithms, and security awareness projects.
-- 📫 How to reach me: yazanazmi2003@gmail.com
-- ⚡ Fun fact: I enjoy solving Capture the Flag (CTF) challenges and participating in online security competitions.
+# 👋 Hi there, I'm Yazan Al Balawi
 
+🎓 Cybersecurity student at **An-Najah National University**, about to graduate, with strong skills in:
+- Ethical Hacking
+- Network Security
+- Secure Coding
+- EDR Evasion & Malware Analysis
 
-<!---
-sonicnew/sonicnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛡️ Certifications
+- ✅ CEH | CEH Practical | CEH Master (ECC4862017539, ECC5146972380, ECC3207584169)
+- ✅ Security+ (CompTIA)
+- ✅ CCNA (Cisco Certified Network Associate)
+
+---
+
+## 💡 Interests
+- Offensive Security
+- Penetration Testing & Red Teaming
+- Malware Development & Reverse Engineering
+- Threat & Vulnerability Assessment
+- Capture The Flag (CTF) competitions
+
+---
+
+## 🧠 Skills
+- Reconnaissance, Enumeration, Exploitation
+- Threat Modeling & Risk Assessment
+- Network Troubleshooting & Protocols
+- Python, Bash, C++, Powershell (basic)
+- Malware Obfuscation & Evasion Tactics
+
+---
+
+## 📫 Let's Connect
+- ✉️ Email: yazanazmi2003@gmail.com
+- 💼 LinkedIn: [Yazan Al Balawi](https://www.linkedin.com/in/yazan-al-balawi/)
+- 📁 GitHub: [github.com/sonicnew](https://github.com/sonicnew)
+
+---
+
+> 🚀 Actively seeking **internship opportunities** in cybersecurity, penetration testing, or red teaming roles. Open to relocation or remote opportunities.
